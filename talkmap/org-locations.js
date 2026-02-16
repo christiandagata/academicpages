@@ -5,6 +5,16 @@ var addressPoints = [
     -122.4075201
   ],
   [
+    "Laboratorio su IA, annotazione e filologia computazionale<br />Autumn School \u201cEtnatext \u2013 Per una formazione umanistica al digitale\u201d; 29\u201331 ottobre 2025",
+    45.4921106,
+    12.2442183
+  ],
+  [
+    "Esplorando l'Hyperedizione di Paves-e<br />PRIN \u00abPAVES-e\u00bb; Torino (2025)",
+    45.0677551,
+    7.6824892
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
